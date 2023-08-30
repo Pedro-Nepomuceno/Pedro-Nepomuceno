@@ -5,10 +5,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
 * 📖 I'm a full-stack developer, currently learning Typescript.
-     <br />
+<br />
 
 * 💡 Open to collaborating on projects and innovative ideas.
-*   <br />
+<br />
 
 * 💻 Currently working at Artalaxies using React and Noje.js.
  
