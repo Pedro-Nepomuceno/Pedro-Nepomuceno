@@ -8,7 +8,6 @@
 * 📖 I'm a full-stack developer, currently learning Typescript.
 <br />
 * 💡 Open to collaborating on projects and innovative ideas.
-<br />
 * 💻 Currently working at Artalaxies using React and Noje.js.
  
  <br />
