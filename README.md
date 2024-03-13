@@ -5,9 +5,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div> <br />
     
-* 📖 I'm a full-stack developer, currently learning Typescript.<br />
-* 💡 Open to collaborating on projects and innovative ideas.<br />
-* 💻 Currently working at Artalaxies using React and Node.js.
+
+* 🛜 I'm a full-stack developer with extensive expertise in JavaScript and React.<br />
+* 📖 Currently developing a project using Typescript.<br />
+* 💡 Open to collaborate on open projects and innovative ideas.<br />
+* 💻 Currently developing software at Artalaxies using Typescript and Node.js.
  
  <br />
  <br />
