@@ -8,7 +8,7 @@
 
 * 🛜   IT / Cloud / Software Engineer.<br />
 * 💡  Open to collaborate on open projects and innovative ideas.<br />
-* 💻  Currently developing software at Artalaxies using Typescript and Node.js.
+
  
  <br />
  <br />
